@@ -13,4 +13,4 @@ Uma aplicação de gerenciamento de tarefas com interface gráfica, criada com P
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/gerenciador_tarefas.git
+   git clone https://github.com/PedroHMour/gerenciador_tarefas.git
